@@ -13,7 +13,7 @@ javascript: !function(){"use strict";function c(){document.querySelectorAll(".co
 ```
 
 1. copy the above javascript into a bookmark
-2. navigate to `pokesnpers.com`
+2. navigate to `pokesnipers.com`
 3. click the bookmark created in step 1
 4. enter in a list of pokemon names to watch for, comma separated like:  `Dragonite, Vaporeon, Arcanine`
 5. script will play a bell noise and highlight the row for you
